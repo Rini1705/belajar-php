@@ -6,7 +6,7 @@ kode char (4) NOT NULL,
 nama VARCHAR (50) NOT NULL,
 );
 
-CREATE TABLE mahasiswa (
+CREATE TABLE mahasiswa1 (
  id INTEGER PRIMARY KEY AUTO_INCREMENT,
  id_jurusan INTEGER NOT NULL,
  nim CHAR (8) NOT NULL,
